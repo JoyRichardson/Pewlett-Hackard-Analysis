@@ -14,7 +14,7 @@ Software(s):  quickdatabasediagrams.com, Postgresql v11.12, pgAdmin 4
 3. Next, we determined the retirees by title and counted the number of positions that would be vacated using the GROUPBY and COUNT functions.<br/>
 ![](retiring_titles.png)<br/>
 4. Finally, we calculated the number of employees born in the year 1965 who would be eligible for a mentorship program using the DISTINCT ON statement.
-![](membership_eligilibility.png)<br/>
+![](mentorship_eligibility.png)<br/>
 ## Summary
 Approximately 64% of the silver tsunami hold senior positions.  Many of these retirees have held various positions through their tenure.  These are strong indicators that support a mentorship program to transfer knowledge from long-term employees to newer team members.
 
